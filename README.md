@@ -1,6 +1,4 @@
-# udacity_deep_learning_foundations__p1
-
-## Introduction
+# Neural Network built from scratch with Python and numpy
 
 ![alt text](https://raw.githubusercontent.com/dcarlyle/udacity_deep_learning_foundations__p1/master/cyclenetlogo.png "Cycle net") There are a lot of libraries available (like Tensorflow) to help build Neural Networks, however it is important to understand the basic building blocks. This is especially important for machine learning which requires various aspects of statisitics, mathematics, computing, information science and some understanding of the hardware available (STEM):
 
